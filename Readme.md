@@ -3,7 +3,7 @@
 
 * [Silverlight.js](./CS/RichEditHTMLBridgeSL.Web/Silverlight.js) (VB: [Silverlight.js](./VB/RichEditHTMLBridgeSL.Web/Silverlight.js))
 * [MainPage.xaml](./CS/RichEditHTMLBridgeSL/MainPage.xaml) (VB: [MainPage.xaml](./VB/RichEditHTMLBridgeSL/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/RichEditHTMLBridgeSL/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/RichEditHTMLBridgeSL/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/RichEditHTMLBridgeSL/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/RichEditHTMLBridgeSL/MainPage.xaml.vb))
 <!-- default file list end -->
 # DXRichEdit - How to invoke RichEditControl API from the client script and vice versa
 
